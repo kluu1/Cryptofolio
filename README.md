@@ -4,8 +4,8 @@
 
 Run Application: [Launch Cryptofolio ](https://cryptofolio-us.herokuapp.com/)
 
-demo user: demouser@cryptofolio.com
-demo pass: 123456
+* demo user: demouser@cryptofolio.com
+* demo pass: 123456
 
 **Team Members:** Vicki Hope, Kevin Luu, Alton Salmon
  
